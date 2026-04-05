@@ -1,0 +1,5 @@
+{
+  "name": "Dice Roller Simulator",
+  "description": "A polished 3D-style 6-sided dice roller with history and multi-dice support.",
+  "requestFramePermissions": []
+}
